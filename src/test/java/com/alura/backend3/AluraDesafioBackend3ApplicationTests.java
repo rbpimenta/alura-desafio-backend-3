@@ -1,4 +1,4 @@
-package com.example.aluradesafiobackend3;
+package com.alura.backend3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
